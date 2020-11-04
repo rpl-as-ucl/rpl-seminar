@@ -1,9 +1,9 @@
 - 
-  date: "2020-11-13"
-  dateReadable: "November 13"
+  date: "2020-11-27"
+  dateReadable: "November 27"
   tracks: 
-    - {title: "Title 1", color: "#90be4e"}
-  timeslots:
+    - {title: "Seminar Talk 3", color: "#90be4e"}
+  timeslots: 
     - {
     	startTime: "16:00",
     	endTime: "17:00",
@@ -13,7 +13,7 @@
   date: "2020-11-20"
   dateReadable: "November 20"
   tracks: 
-    - {title: "Title 2", color: "#90be4e"}
+    - {title: "Seminar Talk 2", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "16:00",
@@ -21,11 +21,11 @@
     	sessionIds: [001]
     }
 - 
-  date: "2020-11-27"
-  dateReadable: "November 27"
+  date: "2020-11-13"
+  dateReadable: "November 13"
   tracks: 
-    - {title: "Title 3", color: "#90be4e"}
-  timeslots: 
+    - {title: "Seminar Talk 1", color: "#90be4e"}
+  timeslots:
     - {
     	startTime: "16:00",
     	endTime: "17:00",
