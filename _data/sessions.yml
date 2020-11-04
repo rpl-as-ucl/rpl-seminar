@@ -3,7 +3,7 @@
   title: "J. Bimbo title"
   description: "TBA."
   subtype: presentation
-  speakers: [3]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/"
@@ -21,7 +21,7 @@
   title: "A. Acemoglu title"
   description: "TBA."
   subtype: presentation
-  speakers: [1]
+  speakers: [3]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/"
