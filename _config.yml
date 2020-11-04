@@ -59,30 +59,9 @@ aboutTitle: "About RPL Seminar"
 aboutBlock:
  - {title: "Seminar", image: "workshop.jpg", text: "Virtual robotic seminars held on Fridays via Zoom." }
 
-# Latest News Block
-latestNewsTitle: "Latest news"
-
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Zoom"
-eventLocationLink: "http://"
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: ""
-subscribeInfo: "Subscribe for news!"
-
 # Footer
 socialLinks:
  - {link: "https://rpl-as-ucl.github.io/", icon: ""}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Contacts"
