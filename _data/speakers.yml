@@ -18,9 +18,7 @@
   thumbnailUrl: J.Yim.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "web-page", link: "https://people.eecs.berkeley.edu/~yim/"}
 -
   id: 5
   name: "Alperen"
@@ -30,9 +28,5 @@
   bio: "."
   thumbnailUrl: A.Acemoglu.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "web-page", link: "https://www.iit.it/people/alperen-acemoglu"}
