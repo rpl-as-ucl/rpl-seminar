@@ -43,8 +43,9 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Robotic Perception and Learning (RPL) Seminar"
 heroButtons:
- - {link: "/schedule", text: "Schedule"}
+ - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "https://", text: "Zoom Link"}
 
 # About Block
 aboutTitle: "About RPL Seminar"
