@@ -7,7 +7,7 @@
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: [001]
+    	sessionIds: [003]
     }
 - 
   date: "2020-11-20"
@@ -18,7 +18,7 @@
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: [001]
+    	sessionIds: [002]
     }
 - 
   date: "2020-11-13"

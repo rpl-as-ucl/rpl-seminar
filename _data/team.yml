@@ -1,9 +1,0 @@
-- 
-  id: 0
-  name: "Dimitrios"
-  surname: "Kanoulas"
-  title: "Main Organizer"
-  thumbnailUrl: D.Kanoulas.jpg
-  team: true
-  social: 
-    - {name: "site", link: "http://dkanou.github.io"}
