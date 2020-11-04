@@ -22,7 +22,7 @@
    sodipodi:docname="logos.svg"><metadata
      id="metadata235"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs233" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,8 +32,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1587"
-     inkscape:window-height="851"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview231"
      showgrid="false"
      inkscape:zoom="2.5106383"
@@ -41,7 +41,7 @@
      inkscape:cy="74.908139"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" /><g
      transform="matrix(0.61134408,0,0,0.61134408,-43.552764,-189.78169)"
      id="layer1"
@@ -103,7 +103,7 @@
        x="108.57143"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L Medium Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-weight:normal;font-size:50px"
+         style="font-weight:normal;font-size:50px;fill:#cccccc"
          y="403.07648"
          x="108.57143"
          id="tspan4146-2"
@@ -136,7 +136,7 @@
        x="108.57143"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L Medium Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-weight:normal;font-size:50px"
+         style="font-weight:normal;font-size:50px;fill:#800000"
          y="403.07648"
          x="108.57143"
          id="tspan4146-6"
