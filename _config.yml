@@ -31,8 +31,8 @@ metaKeywords: "seminar, robotics"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/rpl-seminar/schedule/", text: "Schedule"}
- - {permalink: "/rpl-seminar/speakers/", text: "Speakers"}
+ - {permalink: "/schedule", text: "Schedule"}
+ - {permalink: "/speakers", text: "Speakers"}
 bottomNavigationLinks:
  - {link: "http://", text: "Zoom Link"}
 rightNavigationButtons:
