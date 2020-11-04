@@ -40,8 +40,8 @@ socialImageSrcFacebook: "/img/seo/rpl-seminar-logo.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/rpl-seminar/schedule/", text: "Schedule"}
+ - {permalink: "/rpl-seminar/speakers/", text: "Speakers"}
 bottomNavigationLinks:
  - {link: "http://", text: "Zoom Link"}
 rightNavigationButtons:
@@ -49,7 +49,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RPL Seminar"
+heroTitle: "Robotic Perception and Learning (RPL) Seminar"
 heroButtons:
  - {link: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
