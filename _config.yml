@@ -33,6 +33,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "https://", text: "Zoom Link"}
 bottomNavigationLinks:
  - {link: "http://", text: "Zoom Link"}
 rightNavigationButtons:
