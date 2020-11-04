@@ -31,9 +31,9 @@ organizerLink: "http://dkanou.github.io"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/rpl-seminar-logo.png"
+socialImageSrcTwitter: "/img/seo/rpl-seminar-logo.png"
+socialImageSrcFacebook: "/img/seo/rpl-seminar-logo.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
