@@ -1,32 +1,32 @@
 - 
-  id: 3
+  id: 1
   name: "Joao"
   surname: "Bimbo"
   company: "Yale University"
   title: "TBA"
   bio: "TBA"
-  thumbnailUrl: J.Bimbo.png
-  rockstar: true
+  thumbnailUrl: J.Bimbo.jpg
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 4
+  id: 2
   name: "Justin"
   surname: "Yim"
   title: "TBA"
   bio: "TBA"
-  thumbnailUrl: J.Yim.png
-  rockstar: true
+  thumbnailUrl: J.Yim.jpg
+  rockstar: false
   social: 
     - {name: "web-page", link: "https://people.eecs.berkeley.edu/~yim/"}
 -
-  id: 5
+  id: 3
   name: "Alperen"
   surname: "Acemoglu"
   company: ""
   title: ""
   bio: "."
   thumbnailUrl: A.Acemoglu.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "web-page", link: "https://www.iit.it/people/alperen-acemoglu"}
