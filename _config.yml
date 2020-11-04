@@ -35,17 +35,17 @@ navigationLinks:
  - {permalink: "/speakers", text: "Speakers"}
  - {permalink: "https://", text: "Zoom Link"}
 bottomNavigationLinks:
- - {link: "http://", text: "Zoom Link"}
+ - {link: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 rightNavigationButtons:
- - {link: "http://", text: "Zoom Link"}
+ - {link: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Robotic Perception and Learning (RPL) Seminar"
+heroTitle: "RPL Robotic Seminar"
 heroButtons:
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
- - {permalink: "https://", text: "Zoom Link"}
+ - {permalink: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 
 # About Block
 aboutTitle: "About RPL Seminar"
