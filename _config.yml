@@ -17,9 +17,9 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: "/rpl-seminar"
 url: "https://rpl-as-ucl.github.io"
 =======
-title: "RPL Robotic Seminar"
+title: "RPL Robotics Seminar"
 email: "d.kanoulas@ucl.ac.uk"
-description: "A technical robotic seminar held at University College London (UCL), Department of Computer Science, Robotic Perception and Learning (RPL) Lab"
+description: "A technical robotics seminar held at University College London (UCL), Department of Computer Science, Robotic Perception and Learning (RPL) Lab"
 baseurl: "/rpl-seminar"
 url: "http://rpl-as-ucl.github.io"
 >>>>>>> gh-pages
