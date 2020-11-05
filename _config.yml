@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Robotic Perception and Learning (RPL) Seminar"
 email: "d.kanoulas@ucl.ac.uk"
-description: "A technical robotic seminar held at University College London (UCL), Department of Computer Science, Robotic Perception and Learning (RPL) Lab"
+description: "A technical robotics seminar held at University College London (UCL), Department of Computer Science, Robotic Perception and Learning (RPL) Lab"
 baseurl: "/rpl-seminar"
 url: "http://rpl-as-ucl.github.io"
 
@@ -33,7 +33,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
- - {permalink: "https://", text: "Zoom Link"}
+ - {link: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 bottomNavigationLinks:
  - {link: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 rightNavigationButtons:
@@ -41,11 +41,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RPL Robotic Seminar"
+heroTitle: "RPL Robotics Seminar"
 heroButtons:
  - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/speakers", text: "Speakers"}
- - {permalink: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
+ - {link: "https://ucl.zoom.us/j/95322340218", text: "Zoom Link"}
 
 # About Block
 aboutTitle: "About RPL Seminar"
