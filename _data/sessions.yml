@@ -1,7 +1,7 @@
 -
   id: 001
-  title: "J. Bimbo title"
-  description: "TBA."
+  title: "Contact Sensing Robot Grasping"
+  description: "In this talk, I will present how tactile and force information can be used to obtain richer information relevant to the grasping and manipulation of objects. I will discuss how tactile perception enables a system to go from raw tactile and force signals into higher level contact information, such as slippage, object pose, material identification, and collision detection."
   subtype: presentation
   speakers: [1]
   language: en
