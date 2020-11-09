@@ -8,7 +8,7 @@
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/"
 -
-  id: 023
+  id: 002
   title: "Saltatorial Locomotion on Terrain Obstacles"
   description: "High-power jumping robots can rapidly traverse large obstacles, but the resulting fast and forceful motion is challenging for control and estimation.  In this talk, I will present my work developing a small monopedal jumping robot, Salto-1P.  Salto-1P achieved superlative jumping performance and demonstrated precise control, onboard estimation, and dynamic transitions between jumping and balancing."
   subtype: presentation
