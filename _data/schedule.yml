@@ -13,7 +13,7 @@
   date: "2020-11-20"
   dateReadable: "November 20"
   tracks: 
-    - {title: "Saltatorial Locomotion on Terrain Obstacles", color: "#90be4e"}
+    - {title: "Seminar Talk 2", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "17:00",
