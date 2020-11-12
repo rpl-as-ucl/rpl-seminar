@@ -13,6 +13,7 @@
   id: 2
   name: "Dr. Justin"
   surname: "Yim"
+  company: "Carnegie Mellon University (Robomechanics Lab)"
   title: "Saltatorial Locomotion on Terrain Obstacles"
   bio: "Justin Yim is a Computing Innovation Fellow at Carnegie Mellon University working with Aaron Johnson.  He received his Ph.D. in Electrical Engineering at the University of California, Berkeley advised by Ronald Fearing in 2020.  He received a B.S.E. and M.S.E. from the University of Pennsylvania."
   thumbnailUrl: J.Yim.jpg
@@ -23,7 +24,7 @@
   id: 3
   name: "Dr. Alperen"
   surname: "Acemoglu"
-  company: "Italian Institute of Technology (IIT)"
+  company: "Italian Institute of Technology (Advanced Robotics Lab)"
   title: ""
   bio: "."
   thumbnailUrl: A.Acemoglu.jpg
