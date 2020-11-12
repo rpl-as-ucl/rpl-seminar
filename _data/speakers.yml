@@ -23,10 +23,21 @@
   id: 3
   name: "Dr. Alperen"
   surname: "Acemoglu"
-  company: ""
+  company: "Italian Institute of Technology (IIT)"
   title: ""
   bio: "."
   thumbnailUrl: A.Acemoglu.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
+-
+  id: 4
+  name: "Dr. Michael"
+  surname: "Everett"
+  company: "MIT (Aerospace Controls Lab)"
+  title: ""
+  bio: "."
+  thumbnailUrl: M.Everett.jpg
   rockstar: false
   social: 
     - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
