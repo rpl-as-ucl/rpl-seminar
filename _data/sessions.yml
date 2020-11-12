@@ -5,7 +5,7 @@
   subtype: presentation
   speakers: [1]
   language: en
-  complexity: "Intermediate"
+  topic: "Robot Grasping"
   #video: "//www.youtube.com/embed/"
 -
   id: 002
@@ -14,7 +14,7 @@
   subtype: presentation
   speakers: [2]
   language: en
-  complexity: "Intermediate"
+  topic: "Legged Locomotion"
   #video: "//www.youtube.com/embed/"
 -
   id: 003
@@ -23,7 +23,7 @@
   subtype: presentation
   speakers: [3]
   language: en
-  complexity: "Intermediate"
+  topic: "Medical Robotics"
   #video: "//www.youtube.com/embed/"
 -
   id: 004
@@ -32,5 +32,5 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate"
+  topic: "Autonomous Mobility"
   #video: "//www.youtube.com/embed/"
