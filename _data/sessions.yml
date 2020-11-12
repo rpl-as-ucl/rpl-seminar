@@ -18,10 +18,19 @@
   video: "//www.youtube.com/embed/"
 -
   id: 003
-  title: "A. Acemoglu title"
-  description: "TBA."
+  title: "TBA"
+  description: "TBA"
   subtype: presentation
   speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/"
+-
+  id: 004
+  title: "TBA"
+  description: "TBA"
+  subtype: presentation
+  speakers: [4]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/"
