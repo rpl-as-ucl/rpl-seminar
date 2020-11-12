@@ -6,7 +6,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/"
+  #video: "//www.youtube.com/embed/"
 -
   id: 002
   title: "Saltatorial Locomotion on Terrain Obstacles"
@@ -15,7 +15,7 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/"
+  #video: "//www.youtube.com/embed/"
 -
   id: 003
   title: "TBA"
@@ -24,7 +24,7 @@
   speakers: [3]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/"
+  #video: "//www.youtube.com/embed/"
 -
   id: 004
   title: "TBA"
@@ -33,4 +33,4 @@
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/"
+  #video: "//www.youtube.com/embed/"
