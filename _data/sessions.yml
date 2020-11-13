@@ -6,7 +6,7 @@
   speakers: [1]
   language: en
   topic: "Robot Grasping"
-  #video: "//www.youtube.com/embed/"
+  video: "//www.youtube.com/embed/wk6TEd_sma8"
 -
   id: 002
   title: "Saltatorial Locomotion on Terrain Obstacles"
