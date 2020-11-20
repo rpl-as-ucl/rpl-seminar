@@ -36,8 +36,8 @@
   name: "Dr. Michael"
   surname: "Everett"
   company: "MIT (Aerospace Controls Lab)"
-  title: ""
-  bio: "Michael Everett is a Postdoctoral Associate at MIT in the Aerospace Controls Lab. His research interests lie at the intersection of robotics and learning, with an emphasis on robust learning, motion planning and deep reinforcement learning. His PhD work was advised by Prof. Jonathan How, Prof. John Leonard, and Prof. Alberto Rodriguez. He received the PhD, SM, and SB degrees from MIT in Mechanical Engineering (2020, 2017, 2015)."
+  title: "Reliability in Robot Learning: Developing resilient autonomous systems for society"
+  bio: "Michael Everett is a Postdoctoral Associate at the MIT Department of Aeronautics and Astronautics and conducts research in the Aerospace Controls Laboratory. He received the PhD (2020), SM (2017), and SB (2015) degrees from MIT in Mechanical Engineering. His research addresses fundamental gaps at the intersection of machine learning, robotics, and control theory, with recent emphasis on developing the theory of safe and robust neural feedback loops. His works have been recognized with numerous awards and covered by major media outlets."
   thumbnailUrl: M.Everett.png
   rockstar: false
   social: 
