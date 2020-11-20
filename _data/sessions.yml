@@ -27,8 +27,8 @@
   #video: "//www.youtube.com/embed/"
 -
   id: 004
-  title: "TBA"
-  description: "TBA"
+  title: "Reliability in Robot Learning: Developing resilient autonomous systems for society"
+  description: "Autonomous robots have the potential to transform our everyday lives, yet most of today’s robots struggle in the real world. My research focuses on this issue by building foundations of robust deep learning and autonomy. In this talk, I will describe some of our recent work on analyzing the robustness properties of deep neural networks, robustifying learned deep RL policies, and estimating the reachable sets of neural feedback loops."
   subtype: presentation
   speakers: [4]
   language: en
