@@ -1,6 +1,6 @@
 - 
   date: "2020-12-10"
-  dateReadable: "December 10"
+  dateReadable: "Thursday, December 10"
   tracks: 
     - {title: "Seminar Talk 4", color: "#90be4e"}
   timeslots: 
@@ -10,8 +10,8 @@
     	sessionIds: [004]
     }
 - 
-  date: "2020-12-04"
-  dateReadable: "December 4"
+  date: "2020-12-03"
+  dateReadable: "Thursday, December 3"
   tracks: 
     - {title: "Seminar Talk 3", color: "#90be4e"}
   timeslots: 
@@ -22,7 +22,7 @@
     }
 - 
   date: "2020-11-20"
-  dateReadable: "November 20"
+  dateReadable: "Friday, November 20"
   tracks: 
     - {title: "Seminar Talk 2", color: "#90be4e"}
   timeslots: 
@@ -33,7 +33,7 @@
     }
 - 
   date: "2020-11-13"
-  dateReadable: "November 13"
+  dateReadable: "Friday, November 13"
   tracks: 
     - {title: "Seminar Talk 1", color: "#90be4e"}
   timeslots:
