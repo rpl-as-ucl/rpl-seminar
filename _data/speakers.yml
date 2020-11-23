@@ -22,17 +22,6 @@
     - {name: "site", link: "https://people.eecs.berkeley.edu/~yim/"}
 -
   id: 3
-  name: "Dr. Alperen"
-  surname: "Acemoglu"
-  company: "Italian Institute of Technology (Advanced Robotics Lab)"
-  title: ""
-  bio: "."
-  thumbnailUrl: A.Acemoglu.jpg
-  rockstar: false
-  social: 
-    - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
--
-  id: 4
   name: "Dr. Michael"
   surname: "Everett"
   company: "MIT (Aerospace Controls Lab)"
@@ -42,3 +31,14 @@
   rockstar: false
   social: 
     - {name: "site", link: "http://mfe.mit.edu"}
+-
+  id: 4
+  name: "Dr. Alperen"
+  surname: "Acemoglu"
+  company: "Italian Institute of Technology (Advanced Robotics Lab)"
+  title: ""
+  bio: "."
+  thumbnailUrl: A.Acemoglu.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
