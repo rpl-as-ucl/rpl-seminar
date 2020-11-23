@@ -25,13 +25,13 @@
   language: en
   topic: "Autonomous Mobility"
   #video: "//www.youtube.com/embed/"
-#-
-#  id: 004
-#  title: "TBA"
-#  description: "TBA"
-#  subtype: presentation
-#  speakers: [4]
-#  language: en
-#  topic: "Medical Robotics"
-#  #video: "//www.youtube.com/embed/"
+-
+  id: 004
+  title: "TBA"
+  description: "TBA"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  topic: "Medical Robotics"
+  #video: "//www.youtube.com/embed/"
   
