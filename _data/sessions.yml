@@ -34,4 +34,15 @@
   language: en
   topic: "Medical Robotics"
   #video: "//www.youtube.com/embed/"
+-
+  id: 005
+  title: "New Perspectives in the Design and Control of Bionic Limb."
+  description: "Since the 16th century, science and engineering have endeavored to match the richness and complexity of the human hand sensory-motor system. In the last decade novel theories and technologies, e.g. soft robotics and the simplification of the mechanical design, suggest a new promising direction towards the next generation of high technologic bionic aids. This talk aims to exploit the potential of these emerging trends and proposes new strategies to optimise the performance of an artificial hand, achieving a useful trade-off between grasping performance and mechanical design/control complexity."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  topic: "Robot Design, Soft Robotics, Machatronics"
+  #video: "//www.youtube.com/embed/"
+  
+
   
