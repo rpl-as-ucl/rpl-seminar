@@ -1,5 +1,16 @@
 - 
   date: "2020-12-17"
+  dateReadable: "Thursday, January 25"
+  tracks: 
+    - {title: "Seminar Talk 6", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "13:00",
+    	endTime: "14:00",
+    	sessionIds: [006]
+    }
+- 
+  date: "2020-12-17"
   dateReadable: "Thursday, December 17"
   tracks: 
     - {title: "Seminar Talk 5", color: "#90be4e"}
