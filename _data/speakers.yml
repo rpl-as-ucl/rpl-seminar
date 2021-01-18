@@ -53,3 +53,14 @@
   rockstar: false
   social: 
     - {name: "site", link: "https://www.professoren.tum.de/piazza-cristina"}
+-
+  id: 6
+  name: "Prof. Kostas"
+  surname: "Alexis"
+  company: "Technical University of Munich (TUM)"
+  title: "Field-hardened Resilient Robotic Autonomy"
+  bio: "Kostas Alexis obtained his Ph.D. in the field of aerial robotics control and collaboration from the University of Patras, Greece in 2011. His Ph.D. research was supported by the Greek National-European Commission Excellence scholarship. After successfully defending his Ph.D. thesis, he was awarded a Swiss Government fellowship and moved to Switzerland and ETH Zurich. From 2012 to June 2015 he held the position of Senior Researcher at the Autonomous Systems Lab of ETH Zurich, leading the lab efforts in the fields of control and path planning for advanced navigational and operational autonomy. During summer 2015 he moved to the Computer Science & Engineering Department of the University of Nevada, Reno where he got tenured in 2020. Since Fall 2020 he moved to the Department of Engineering Cybernetics at the Norwegian University of Science and Technology as a Full Professor. He is the founder and director of the Autonomous Robots Lab (https://www.autonomousrobotslab.com/) involving more than 15 researchers and conducting research in the domain of autonomy, perception, planning and control. Dr. Alexis' research has received multiple awards, includes the world record in unmanned aircraft endurance, and has been funded by a variety of sources including DARPA, NSF, DOE, USDA, NASA, the European Commission, the Norwegian Research Council the private sector and other sources."
+  thumbnailUrl: K.Alexis.png
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://www.autonomousrobotslab.com"}
