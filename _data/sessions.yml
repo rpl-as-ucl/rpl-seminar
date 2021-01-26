@@ -1,4 +1,22 @@
 -
+  id: 006
+  title: "Field-hardened Resilient Robotic Autonomy."
+  description: "This talk will present our contributions in the domain of field-hardened resilient robotic autonomy and specifically on multi-modal sensing-degraded GPS-denied localization and mapping, informative path planning, and robust control to facilitate reliable access, exploration, mapping and search of challenging environments such as subterranean settings. The presented work will, among others, emphasize on fundamental developments taking place in the framework of the DARPA Subterranean Challenge and the research of the CERBERUS (https://www.subt-cerberus.org/) team, alongside work on nuclear site characterization and infrastructure inspection. Relevant field results from both active and abandoned underground mines as well as tunnels in the U.S. and in Switzerland will be presented. In addition, a selected set of prior works on long-term autonomy, including the world-record on unmanned aircraft endurance will be briefly overviewed. The talk will conclude with directions for future research to enable advanced autonomy and resilience, alongside the necessary connection to education and the potential for major broader impacts to the benefit of our economy and society. "
+  subtype: presentation
+  speakers: [6]
+  language: en
+  topic: "Flying Robots"
+  video: "//www.youtube.com/embed/7bDhdcn7MKI"
+-
+  id: 005
+  title: "New Perspectives in the Design and Control of Bionic Limb."
+  description: "Since the 16th century, science and engineering have endeavored to match the richness and complexity of the human hand sensory-motor system. In the last decade novel theories and technologies, e.g. soft robotics and the simplification of the mechanical design, suggest a new promising direction towards the next generation of high technologic bionic aids. This talk aims to exploit the potential of these emerging trends and proposes new strategies to optimise the performance of an artificial hand, achieving a useful trade-off between grasping performance and mechanical design/control complexity."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  topic: "Robot Design, Soft Robotics, Machatronics"
+  video: "//www.youtube.com/embed/aKSejXxoR1A"
+-
   id: 001
   title: "Contact Sensing for Robot Grasping"
   description: "In this talk, I will present how tactile and force information can be used to obtain richer information relevant to the grasping and manipulation of objects. I will discuss how tactile perception enables a system to go from raw tactile and force signals into higher level contact information, such as slippage, object pose, material identification, and collision detection."
@@ -34,21 +52,4 @@
   language: en
   topic: "Medical Robotics"
   video: "//www.youtube.com/embed/10ahok93GDY"
--
-  id: 005
-  title: "New Perspectives in the Design and Control of Bionic Limb."
-  description: "Since the 16th century, science and engineering have endeavored to match the richness and complexity of the human hand sensory-motor system. In the last decade novel theories and technologies, e.g. soft robotics and the simplification of the mechanical design, suggest a new promising direction towards the next generation of high technologic bionic aids. This talk aims to exploit the potential of these emerging trends and proposes new strategies to optimise the performance of an artificial hand, achieving a useful trade-off between grasping performance and mechanical design/control complexity."
-  subtype: presentation
-  speakers: [5]
-  language: en
-  topic: "Robot Design, Soft Robotics, Machatronics"
-  video: "//www.youtube.com/embed/aKSejXxoR1A"
--
-  id: 006
-  title: "Field-hardened Resilient Robotic Autonomy."
-  description: "This talk will present our contributions in the domain of field-hardened resilient robotic autonomy and specifically on multi-modal sensing-degraded GPS-denied localization and mapping, informative path planning, and robust control to facilitate reliable access, exploration, mapping and search of challenging environments such as subterranean settings. The presented work will, among others, emphasize on fundamental developments taking place in the framework of the DARPA Subterranean Challenge and the research of the CERBERUS (https://www.subt-cerberus.org/) team, alongside work on nuclear site characterization and infrastructure inspection. Relevant field results from both active and abandoned underground mines as well as tunnels in the U.S. and in Switzerland will be presented. In addition, a selected set of prior works on long-term autonomy, including the world-record on unmanned aircraft endurance will be briefly overviewed. The talk will conclude with directions for future research to enable advanced autonomy and resilience, alongside the necessary connection to education and the potential for major broader impacts to the benefit of our economy and society. "
-  subtype: presentation
-  speakers: [6]
-  language: en
-  topic: "Flying Robots"
-  video: "//"
+
