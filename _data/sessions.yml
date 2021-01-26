@@ -17,23 +17,14 @@
   topic: "Robot Design, Soft Robotics, Machatronics"
   video: "//www.youtube.com/embed/aKSejXxoR1A"
 -
-  id: 001
-  title: "Contact Sensing for Robot Grasping"
-  description: "In this talk, I will present how tactile and force information can be used to obtain richer information relevant to the grasping and manipulation of objects. I will discuss how tactile perception enables a system to go from raw tactile and force signals into higher level contact information, such as slippage, object pose, material identification, and collision detection."
+  id: 004
+  title: "5G Telesurgery"
+  description: "Surgical robots and their control consols are being developed to perform telesurgeries for more than 30 years. The first telesurgery involving a human patient was performed in 2001, known as Lindbergh operation. However, the reproduction of this feat and popularization of the telesurgery was impossible due to the limited availability of surgical robots and the lack of fast and reliable network connections. Now, with the introduction of 5G mobile networks and with the new surgical robots, this concept is becoming practical. Recently, we performed an experiment of a remote 5G robotic laser microsurgery in Milano, Italy. In our experiment, surgeons successfully performed complex transoral laser microsurgeries on the vocal cords of an adult human cadaver located 15 km away from them. Our results demonstrate that surgical expertise can be exploited and shared efficiently using the new 5G telecommunication standard. During the talk, we will be discussing this 5G telesurgery experience, in detail the telesurgery setup, the integrated robotic systems, results of the experiments and current limitations/future directions."
   subtype: presentation
-  speakers: [1]
+  speakers: [4]
   language: en
-  topic: "Robot Grasping"
-  video: "//www.youtube.com/embed/wk6TEd_sma8"
--
-  id: 002
-  title: "Saltatorial Locomotion on Terrain Obstacles"
-  description: "High-power jumping robots can rapidly traverse large obstacles, but the resulting fast and forceful motion is challenging for control and estimation.  In this talk, I will present my work developing a small monopedal jumping robot, Salto-1P.  Salto-1P achieved superlative jumping performance and demonstrated precise control, onboard estimation, and dynamic transitions between jumping and balancing."
-  subtype: presentation
-  speakers: [2]
-  language: en
-  topic: "Legged Locomotion"
-  video: "//www.youtube.com/embed/v5Cr-6_VYws"
+  topic: "Medical Robotics"
+  video: "//www.youtube.com/embed/10ahok93GDY"
 -
   id: 003
   title: "Reliability in Robot Learning: Developing resilient autonomous systems for society"
@@ -44,12 +35,20 @@
   topic: "Autonomous Mobility"
   video: "//www.youtube.com/embed/XfRnKfwn_9E"
 -
-  id: 004
-  title: "5G Telesurgery"
-  description: "Surgical robots and their control consols are being developed to perform telesurgeries for more than 30 years. The first telesurgery involving a human patient was performed in 2001, known as Lindbergh operation. However, the reproduction of this feat and popularization of the telesurgery was impossible due to the limited availability of surgical robots and the lack of fast and reliable network connections. Now, with the introduction of 5G mobile networks and with the new surgical robots, this concept is becoming practical. Recently, we performed an experiment of a remote 5G robotic laser microsurgery in Milano, Italy. In our experiment, surgeons successfully performed complex transoral laser microsurgeries on the vocal cords of an adult human cadaver located 15 km away from them. Our results demonstrate that surgical expertise can be exploited and shared efficiently using the new 5G telecommunication standard. During the talk, we will be discussing this 5G telesurgery experience, in detail the telesurgery setup, the integrated robotic systems, results of the experiments and current limitations/future directions."
+  id: 002
+  title: "Saltatorial Locomotion on Terrain Obstacles"
+  description: "High-power jumping robots can rapidly traverse large obstacles, but the resulting fast and forceful motion is challenging for control and estimation.  In this talk, I will present my work developing a small monopedal jumping robot, Salto-1P.  Salto-1P achieved superlative jumping performance and demonstrated precise control, onboard estimation, and dynamic transitions between jumping and balancing."
   subtype: presentation
-  speakers: [4]
+  speakers: [2]
   language: en
-  topic: "Medical Robotics"
-  video: "//www.youtube.com/embed/10ahok93GDY"
-
+  topic: "Legged Locomotion"
+  video: "//www.youtube.com/embed/v5Cr-6_VYws"
+-
+  id: 001
+  title: "Contact Sensing for Robot Grasping"
+  description: "In this talk, I will present how tactile and force information can be used to obtain richer information relevant to the grasping and manipulation of objects. I will discuss how tactile perception enables a system to go from raw tactile and force signals into higher level contact information, such as slippage, object pose, material identification, and collision detection."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  topic: "Robot Grasping"
+  video: "//www.youtube.com/embed/wk6TEd_sma8"
