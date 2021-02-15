@@ -1,47 +1,25 @@
-- 
-  id: 1
-  name: "Dr. Joao"
-  surname: "Bimbo"
-  company: "Yale University (The GRAB lab)"
-  title: "Contact Sensing for Robot Grasping"
-  bio: "Joao Bimbo is currently a Postdoctoral Associate at the GrabLab in Yale University. He obtained his PhD in Robotics at King's College London, before moving to the Italian Institute of Technology in Italy. His main research interest are in robot grasping and tactile sensing."
-  thumbnailUrl: J.Bimbo.jpg
-  rockstar: false
-  social: 
-    - {name: "site", link: "https://scholar.google.com/citations?user=jjX9JIQAAAAJ"}
-- 
-  id: 2
-  name: "Dr. Justin"
-  surname: "Yim"
-  company: "Carnegie Mellon University (Robomechanics Lab)"
-  title: "Saltatorial Locomotion on Terrain Obstacles"
-  bio: "Justin Yim is a Computing Innovation Fellow at Carnegie Mellon University working with Aaron Johnson.  He received his Ph.D. in Electrical Engineering at the University of California, Berkeley advised by Ronald Fearing in 2020.  He received a B.S.E. and M.S.E. from the University of Pennsylvania."
-  thumbnailUrl: J.Yim.jpg
-  rockstar: false
-  social: 
-    - {name: "site", link: "https://people.eecs.berkeley.edu/~yim/"}
 -
-  id: 3
-  name: "Dr. Michael"
-  surname: "Everett"
-  company: "MIT (Aerospace Controls Lab)"
-  title: "Reliability in Robot Learning: Developing resilient autonomous systems for society"
-  bio: "Michael Everett is a Postdoctoral Associate at the MIT Department of Aeronautics and Astronautics and conducts research in the Aerospace Controls Laboratory. He received the PhD (2020), SM (2017), and SB (2015) degrees from MIT in Mechanical Engineering. His research addresses fundamental gaps at the intersection of machine learning, robotics, and control theory, with recent emphasis on developing the theory of safe and robust neural feedback loops. His works have been recognized with numerous awards and covered by major media outlets."
-  thumbnailUrl: M.Everett.png
+  id: 6
+  name: "Prof. Eftratios"
+  surname: "Gavves"
+  company: "University of Amsterdam  (QUVA Deep Vision Lab)"
+  title: "The Machine Learning of Time: Past and Future"
+  bio: "Dr. Efstratios Gavves is an Associate Professor with the University of Amsterdam in the Netherlands, Scientific Director of the QUVA Deep Vision Lab, and an ELLIS Scholar. He is a recipient of the ERC Career Starting Grant 2020 and NWO VIDI grant 2020 to research on the Computational Learning of Temporality for spatiotemporal sequences. Also, he is a co-founder of Ellogon.AI, a University spinoff and in collaboration with the Dutch Cancer Institute (NKI), with the mission of using AI for pathology and genomics. Efstratios has authored several papers in the top Computer Vision and Machine Learning conferences and journals and he is also the author of several patents. His research focus is on Temporal Machine Learning and Dynamics, Efficient Computer Vision, and Machine Learning for Oncology."
+  thumbnailUrl: E.Gavves.png
   rockstar: false
   social: 
-    - {name: "site", link: "http://mfe.mit.edu"}
+    - {name: "site", link: "https://www.egavves.com"}
 -
-  id: 4
-  name: "Dr. Alperen"
-  surname: "Acemoglu"
-  company: "Italian Institute of Technology (Advanced Robotics Lab)"
-  title: "5G Telesurgery"
-  bio: "Alperen Acemoglu received his B.Sc. degree in Mechanical Engineering from Istanbul Technical University, Turkey, in 2012 and M.Sc. degree in Mechatronics Engineering from Sabanci University, Turkey, in 2014. During his master’s studies, he worked on bio-inspired microswimmers which are aimed to be used in biomedical applications such as targeted drug delivery and opening clogged arteries. He received his Ph.D. degree in Bioengineering and Robotics from Istituto Italiano di Tecnologia (IIT) and Universita` Degli Studi di Genova, Italy, in 2018. During his Ph.D. studies, he worked on developing a compact magnetic laser scanner to enable the high-speed laser scanning and non-contact laser tissue ablations in hard-to-reach surgical sites. Currently, he is a postdoctoral researcher in Biomedical Robotics Laboratory, Department of Advanced Robotics, IIT. His research interests include medical robotics, 5G telesurgery, laser microsurgery, magnetically-actuated micromanipulators, and microswimmers."
-  thumbnailUrl: A.Acemoglu.jpg
+  id: 6
+  name: "Prof. Kostas"
+  surname: "Alexis"
+  company: "Norwegian University of Science and Technology (Department of Engineering Cybernetics)"
+  title: "Field-hardened Resilient Robotic Autonomy"
+  bio: "Kostas Alexis obtained his Ph.D. in the field of aerial robotics control and collaboration from the University of Patras, Greece in 2011. His Ph.D. research was supported by the Greek National-European Commission Excellence scholarship. After successfully defending his Ph.D. thesis, he was awarded a Swiss Government fellowship and moved to Switzerland and ETH Zurich. From 2012 to June 2015 he held the position of Senior Researcher at the Autonomous Systems Lab of ETH Zurich, leading the lab efforts in the fields of control and path planning for advanced navigational and operational autonomy. During summer 2015 he moved to the Computer Science & Engineering Department of the University of Nevada, Reno where he got tenured in 2020. Since Fall 2020 he moved to the Department of Engineering Cybernetics at the Norwegian University of Science and Technology as a Full Professor. He is the founder and director of the Autonomous Robots Lab (https://www.autonomousrobotslab.com/) involving more than 15 researchers and conducting research in the domain of autonomy, perception, planning and control. Dr. Alexis' research has received multiple awards, includes the world record in unmanned aircraft endurance, and has been funded by a variety of sources including DARPA, NSF, DOE, USDA, NASA, the European Commission, the Norwegian Research Council the private sector and other sources."
+  thumbnailUrl: K.Alexis.png
   rockstar: false
   social: 
-    - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
+    - {name: "site", link: "https://www.autonomousrobotslab.com"}
 -
   id: 5
   name: "Prof. Cristina"
@@ -54,13 +32,46 @@
   social: 
     - {name: "site", link: "https://www.professoren.tum.de/piazza-cristina"}
 -
-  id: 6
-  name: "Prof. Kostas"
-  surname: "Alexis"
-  company: "Norwegian University of Science and Technology (Department of Engineering Cybernetics)"
-  title: "Field-hardened Resilient Robotic Autonomy"
-  bio: "Kostas Alexis obtained his Ph.D. in the field of aerial robotics control and collaboration from the University of Patras, Greece in 2011. His Ph.D. research was supported by the Greek National-European Commission Excellence scholarship. After successfully defending his Ph.D. thesis, he was awarded a Swiss Government fellowship and moved to Switzerland and ETH Zurich. From 2012 to June 2015 he held the position of Senior Researcher at the Autonomous Systems Lab of ETH Zurich, leading the lab efforts in the fields of control and path planning for advanced navigational and operational autonomy. During summer 2015 he moved to the Computer Science & Engineering Department of the University of Nevada, Reno where he got tenured in 2020. Since Fall 2020 he moved to the Department of Engineering Cybernetics at the Norwegian University of Science and Technology as a Full Professor. He is the founder and director of the Autonomous Robots Lab (https://www.autonomousrobotslab.com/) involving more than 15 researchers and conducting research in the domain of autonomy, perception, planning and control. Dr. Alexis' research has received multiple awards, includes the world record in unmanned aircraft endurance, and has been funded by a variety of sources including DARPA, NSF, DOE, USDA, NASA, the European Commission, the Norwegian Research Council the private sector and other sources."
-  thumbnailUrl: K.Alexis.png
+  id: 4
+  name: "Dr. Alperen"
+  surname: "Acemoglu"
+  company: "Italian Institute of Technology (Advanced Robotics Lab)"
+  title: "5G Telesurgery"
+  bio: "Alperen Acemoglu received his B.Sc. degree in Mechanical Engineering from Istanbul Technical University, Turkey, in 2012 and M.Sc. degree in Mechatronics Engineering from Sabanci University, Turkey, in 2014. During his master’s studies, he worked on bio-inspired microswimmers which are aimed to be used in biomedical applications such as targeted drug delivery and opening clogged arteries. He received his Ph.D. degree in Bioengineering and Robotics from Istituto Italiano di Tecnologia (IIT) and Universita` Degli Studi di Genova, Italy, in 2018. During his Ph.D. studies, he worked on developing a compact magnetic laser scanner to enable the high-speed laser scanning and non-contact laser tissue ablations in hard-to-reach surgical sites. Currently, he is a postdoctoral researcher in Biomedical Robotics Laboratory, Department of Advanced Robotics, IIT. His research interests include medical robotics, 5G telesurgery, laser microsurgery, magnetically-actuated micromanipulators, and microswimmers."
+  thumbnailUrl: A.Acemoglu.jpg
   rockstar: false
   social: 
-    - {name: "site", link: "https://www.autonomousrobotslab.com"}
+    - {name: "site", link: "https://www.iit.it/people/alperen-acemoglu"}
+-
+  id: 3
+  name: "Dr. Michael"
+  surname: "Everett"
+  company: "MIT (Aerospace Controls Lab)"
+  title: "Reliability in Robot Learning: Developing resilient autonomous systems for society"
+  bio: "Michael Everett is a Postdoctoral Associate at the MIT Department of Aeronautics and Astronautics and conducts research in the Aerospace Controls Laboratory. He received the PhD (2020), SM (2017), and SB (2015) degrees from MIT in Mechanical Engineering. His research addresses fundamental gaps at the intersection of machine learning, robotics, and control theory, with recent emphasis on developing the theory of safe and robust neural feedback loops. His works have been recognized with numerous awards and covered by major media outlets."
+  thumbnailUrl: M.Everett.png
+  rockstar: false
+  social: 
+    - {name: "site", link: "http://mfe.mit.edu"}
+- 
+  id: 2
+  name: "Dr. Justin"
+  surname: "Yim"
+  company: "Carnegie Mellon University (Robomechanics Lab)"
+  title: "Saltatorial Locomotion on Terrain Obstacles"
+  bio: "Justin Yim is a Computing Innovation Fellow at Carnegie Mellon University working with Aaron Johnson.  He received his Ph.D. in Electrical Engineering at the University of California, Berkeley advised by Ronald Fearing in 2020.  He received a B.S.E. and M.S.E. from the University of Pennsylvania."
+  thumbnailUrl: J.Yim.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://people.eecs.berkeley.edu/~yim/"}
+- 
+  id: 1
+  name: "Dr. Joao"
+  surname: "Bimbo"
+  company: "Yale University (The GRAB lab)"
+  title: "Contact Sensing for Robot Grasping"
+  bio: "Joao Bimbo is currently a Postdoctoral Associate at the GrabLab in Yale University. He obtained his PhD in Robotics at King's College London, before moving to the Italian Institute of Technology in Italy. His main research interest are in robot grasping and tactile sensing."
+  thumbnailUrl: J.Bimbo.jpg
+  rockstar: false
+  social: 
+    - {name: "site", link: "https://scholar.google.com/citations?user=jjX9JIQAAAAJ"}
