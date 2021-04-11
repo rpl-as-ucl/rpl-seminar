@@ -1,4 +1,13 @@
 -
+  id: 008
+  title: "Why Do a PhD and How to Pick an Area"
+  description: "A recorded talk from SPLASH 2019 "
+  subtype: presentation
+  speakers: [8]
+  language: en
+  topic: "PhD"
+  video: "//www.youtube.com/embed/"
+-
   id: 007
   title: "The Machine Learning of Time: Past and Future."
   description: "Visual artificial intelligence automatically interprets what happens in visual data like videos. Today’s research strives with queries like: “Is this person playing basketball?”; “Find the location of the brain stroke”; or “Track the glacier fractures in satellite footage”. All these queries are about visual observations already taken place. Today’s algorithms focus on explaining past visual observations. Naturally, not all queries are about the past: “Will this person draw something in or out of their pocket?”; “Where will the tumour be in 5 seconds given breathing patterns and moving organs?”; or, “How will the glacier fracture given the current motion and melting patterns?”. For these queries and all others, the next generation of visual algorithms must expect what happens next given past visual observations. Visual artificial intelligence must also be able to prevent before the fact, rather than explain only after it. In this talk, I will present my vision on what these algorithms should look like, and investigate possible synergies with other fields of science, like biomedical research, astronomy and others. Furthermore, I will present some recent works and applications in this direction within my lab and spinoff."
